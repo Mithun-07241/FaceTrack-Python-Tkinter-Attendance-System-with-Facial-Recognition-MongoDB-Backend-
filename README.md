@@ -32,7 +32,10 @@ Here's a `README.md` file with bullet points and emojis:
    ```
 3. Install the required dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r install_commands.txt
+   ```
+   ```bash
+   python -m pip install -r install_commands.txt
    ```
 
 ## 🚀 Usage

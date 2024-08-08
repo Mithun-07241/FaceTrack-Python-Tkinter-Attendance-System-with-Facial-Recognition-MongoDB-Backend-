@@ -53,5 +53,3 @@ Feel free to submit issues or pull requests to contribute to the project.
 Thanks to the contributors and libraries that made this project possible.
 
 ---
-
-Adjust any details as needed!

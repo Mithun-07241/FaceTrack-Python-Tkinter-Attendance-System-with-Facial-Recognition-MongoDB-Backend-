@@ -1,11 +1,9 @@
-Install All the modules mentioned below 
-
-pip install tk-tools
-pip install opencv-contrib-python
-pip install datetime
-pip install pytest-shutil
-pip install python-csv
-pip install numpy
-pip install pillow 
-pip install pandas
-pip install times
+tk-tools
+opencv-contrib-python
+datetime
+pytest-shutil
+python-csv
+numpy
+pillow 
+pandas
+times

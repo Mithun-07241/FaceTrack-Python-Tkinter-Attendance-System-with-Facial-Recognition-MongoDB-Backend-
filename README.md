@@ -45,7 +45,7 @@ Here's a `README.md` file with bullet points and emojis:
 
 ## 🤝 Contributing
 
-Feel free to submit issues or pull requests to contribute to the project. For detailed guidelines on contributing, please refer to the `CONTRIBUTING.md` file.
+Feel free to submit issues or pull requests to contribute to the project.
 
 
 ## 🙏 Acknowledgements

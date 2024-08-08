@@ -24,7 +24,7 @@ Here's a `README.md` file with bullet points and emojis:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/FaceTrack-Python-Tkinter-Attendance-System-with-Facial-Recognition-MongoDB-Backend.git
+   git clone https://github.com/Mithun-07241/FaceTrack-Python-Tkinter-Attendance-System-with-Facial-Recognition-MongoDB-Backend.git
    ```
 2. Navigate to the project directory:
    ```bash

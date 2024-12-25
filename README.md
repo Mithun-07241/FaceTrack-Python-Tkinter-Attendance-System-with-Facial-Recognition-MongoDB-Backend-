@@ -1,7 +1,3 @@
-Here's a `README.md` file with bullet points and emojis:
-
----
-
 # FaceTrack - Python Tkinter Attendance System with Facial Recognition and MongoDB Backend
 
 **FaceTrack** revolutionizes attendance management with a modern Python-based system. It combines a user-friendly Tkinter interface with advanced facial recognition technology and a MongoDB backend for accurate, real-time attendance tracking.

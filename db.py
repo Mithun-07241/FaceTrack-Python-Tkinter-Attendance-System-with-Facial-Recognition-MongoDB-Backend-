@@ -1,6 +1,6 @@
 from tkinter import *
 from tkinter import messagebox
-from tkinter import ttk  # Import ttk module explicitly
+from tkinter import ttk 
 
 import cv2
 import os
